@@ -1,0 +1,2 @@
+# My Portfolio:  
+A beginner-friendly personal portfolio website using HTML and CSS that includes a clean layout with a header, about section, and contact section.A styled "Download Resume" button was added with a hover effect to enhance interactivity.Additionally, smooth fade-in animations were applied to each section using CSS keyframes for a modern touch.This simple project helps practice basic layout, styling, and animation techniques in frontend web development.
